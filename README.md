@@ -1,7 +1,7 @@
 # Rocket Nextjs
 
 ## Why?
-**Ship your startup in days,not weeks**
+**Rocket your startup in days,not weeks**
 The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app. From idea to production in 5 minutes.
 
  - 4 hrs to set up emails

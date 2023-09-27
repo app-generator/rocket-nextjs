@@ -39,11 +39,11 @@ The NextJS boilerplate with all you need to build your SaaS, AI tool, or any oth
 | ✓ React 18.x                            | ✅ `Google OAuth` & `Magic Links`        | ✅ **1mo Custom Development**       | 
 | ✓ TypeScript                            | ✅ **Stripe Payments**                   | ✅ **Dedicated Developer**   |
 | ✓ Tooling: eslint, postcss              | ✅ Mailgun `or` SendGrid                 | ✅ Weekly Sprints      |
-| ✓ UI: Tailwindcss, Flowbite             | ✅ Postgres `or` MySql      | ✅ Technical SPECS             |
+| ✓ UI: TailwindCSS, **Flowbite**             | ✅ Postgres `or` MySql      | ✅ Technical SPECS             |
 | ✓ NextAuth (User & Password)            | ✅ Private REPO Access                   | ✅ Documentation                        |
 | ✓ Mailgun                               | ✅ **Unlimited Projects**                | ✅ **30 days Delivery Warranty**   |
 | ✓ MongoDB                               | ✅ Lifetime Updates                      | -                                      |
-| ✓ Support via GitHub Issues             | ✅ **Fast Support** - [Email & Discord](https://appseed.us/support/)     | -                                      |
+| ✓ Support via GitHub Issues             | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)     | -                                      |
 | -                                       | ✅ Deployment Assistance                 | -                                      |
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | -                                       | 🛒 `PRE Order`: **[$49](https://appseed.gumroad.com/l/rocket-nextjs)** (via GUMROAD)         | 🛒 `Order`: **[$2999](https://appseed.gumroad.com/l/rocket-nextjs-custom)** (via GUMROAD)              |   

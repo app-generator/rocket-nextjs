@@ -43,7 +43,7 @@ The NextJS boilerplate with all you need to build your SaaS, AI tool, or any oth
 | ✓ NextAuth (User & Password)            | ✅ Private REPO Access                   | ✅ Documentation                        |
 | ✓ Mailgun                               | ✅ **Unlimited Projects**                | ✅ **30 days Delivery Warranty**   |
 | ✓ MongoDB                               | ✅ Lifetime Updates                      | -                                      |
-| ✓ Support via GitHub Issues             | ✅ **Support** - [Email & Discord](https://appseed.us/support/)     | -                                      |
+| ✓ Support via GitHub Issues             | ✅ **Fast Support** - [Email & Discord](https://appseed.us/support/)     | -                                      |
 | -                                       | ✅ Deployment Assistance                 | -                                      |
 | --------------------------------------| --------------------------------------| --------------------------------------|
 | -                                       | 🛒 `PRE Order`: **[$49](https://appseed.gumroad.com/l/rocket-nextjs)** (via GUMROAD)         | 🛒 `Order`: **[$2999](https://appseed.gumroad.com/l/rocket-nextjs-custom)** (via GUMROAD)              |   

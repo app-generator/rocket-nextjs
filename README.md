@@ -31,18 +31,18 @@ The NextJS boilerplate with all you need to build your SaaS, AI tool, or any oth
 
 ## Free vs. PRO 
 
-| Free Version                            | PRO - $99 (plus VAT)                    | Custom Development - $2999              |  
+| Free Version                            | PRO - $99 (plus VAT)                    | 🚀 Custom Development - $2999             |  
 | ----------------------------------------| ----------------------------------------| ----------------------------------------|
-| ✓ Next 13.x                             | **Everything in Free**, plus:           | Everything in PRO, plus:                |
-| ✓ React 18.x                            | ✓ `Google OAuth` & `Magic Links`        | ✓ **1 month Custom Development**       | 
-| ✓ TypeScript                            | ✓ **Stripe Payments**                   | ✓ **Dedicated Full-Stack Developer**   |
-| ✓ Tooling: eslint, postcss              | ✓ Mailgun `or` SendGrid                 | ✓ Weekly Sprints with LIVE Deploy      |
-| ✓ UI: Tailwindcss, Flowbite             | ✓ MongoDB `or` Postgres `or` MySql      | ✓ Technical Specifications             |
-| ✓ NextAuth (User & Password)            | ✓ Private REPO Access                   | ✓ Documentation                        |
-| ✓ Mailgun                               | ✓ Unlimited Projects                    | ✓ **30 days Post-delivery Warranty**   |
-| ✓ MongoDB                               | ✓ Lifetime Updates                      | -                                      |
-| ✓ Support via GitHub Issues             | ✓ Premium Support - Discord & Email     | -                                      |
-| -                                       | ✓ Deployment Assistance                 | -                                      |
+| ✓ Next 13.x                             | **Everything in Free**, plus:           | **Everything in PRO**, plus:                |
+| ✓ React 18.x                            | ✅ `Google OAuth` & `Magic Links`        | 🚀 **1 month Custom Development**       | 
+| ✓ TypeScript                            | ✅ **Stripe Payments**                   | ✅ **Dedicated Full-Stack Developer**   |
+| ✓ Tooling: eslint, postcss              | ✅ Mailgun `or` SendGrid                 | ✅ Weekly Sprints with LIVE Deploy      |
+| ✓ UI: Tailwindcss, Flowbite             | ✅ MongoDB `or` Postgres `or` MySql      | ✅ Technical Specifications             |
+| ✓ NextAuth (User & Password)            | ✅ Private REPO Access                   | ✅ Documentation                        |
+| ✓ Mailgun                               | ✅ Unlimited Projects                    | ✅ **30 days Post-delivery Warranty**   |
+| ✓ MongoDB                               | ✅ Lifetime Updates                      | -                                      |
+| ✓ Support via GitHub Issues             | ✅ Premium Support - Discord & Email     | -                                      |
+| -                                       | ✅ Deployment Assistance                 | -                                      |
 | ----------------------------------------| ----------------------------------------| ----------------------------------------|
 | -                                       | PRE Order: [$49](https://appseed.gumroad.com/l/rocket-nextjs) (via GUMROAD)         | Order: [$2999](https://appseed.gumroad.com/l/rocket-nextjs-custom) (via GUMROAD)              |   
 

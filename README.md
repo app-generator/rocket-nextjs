@@ -33,7 +33,7 @@ The NextJS boilerplate with all you need to build your SaaS, AI tool, or any oth
 
 > `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
-| Free Version                            | PRO - $99 (plus VAT)                    | 🚀 Custom Development - $2999             |  
+| Free Version                            | PRO - $99 (plus VAT)                    | 🚀 Custom $2999             |  
 | ----------------------------------------| ----------------------------------------| ----------------------------------------|
 | ✓ Next 13.x                             | **Everything in Free**, plus:           | **Everything in PRO**, plus:                |
 | ✓ React 18.x                            | ✅ `Google OAuth` & `Magic Links`        | ✅ **1 month Custom Development**       | 

@@ -3,13 +3,13 @@
         <img src="https://github.com/app-generator/rocket-nextjs/blob/main/src/app/favicon.ico" width="64" height="64" alt="Rocket Icon">
     </a>
     <h1>
-        <a href="https://rocket.nextjs.com">
+        <a href="[https://rocket.nextjs.com](https://github.com/app-generator/rocket-nextjs)">
             Rocket Nextjs
         </a>
     </h1>
 </div>
 
-## Why?
+## [Why Rocket NextJS](https://github.com/app-generator/rocket-nextjs/issues/1)
 
 #### ***Supercharge your app instantly, launch faster, make $***
 Login users, process payments and send emails at lightspeed. Spend your time building your startup, not integrating APIs. Rocket provides you with the boilerplate code you need to launch, FAST. <br />

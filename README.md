@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://rocket.nextjs.com">
+    <a href="https://github.com/app-generator/rocket-nextjs">
         <img src="https://github.com/app-generator/rocket-nextjs/blob/main/src/app/favicon.ico" width="64" height="64" alt="Rocket Icon">
     </a>
     <h1>
-        <a href="[https://rocket.nextjs.com](https://github.com/app-generator/rocket-nextjs)">
+        <a href="https://github.com/app-generator/rocket-nextjs">
             Rocket Nextjs
         </a>
     </h1>

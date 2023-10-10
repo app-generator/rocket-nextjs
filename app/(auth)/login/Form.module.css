@@ -1,0 +1,32 @@
+.form_container input,
+.form_container label {
+    @apply block my-1;
+}
+
+.login_continue::before,
+.login_continue::after {
+    content: '';
+    display: inline-block;
+    max-width: 170px;
+    width: calc(60% - 4em);
+    height: 2px;
+    background-color: #EAECEF;
+    vertical-align: middle;
+    @apply mr-1;
+}
+
+.form_container input[type="email"],
+.form_container input[type="password"] {
+    padding: 1em;
+
+}
+
+
+
+.form_container>div {
+    @apply w-full;
+}
+
+.login_continue {
+    @apply w-full;
+}

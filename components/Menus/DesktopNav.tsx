@@ -11,9 +11,11 @@ const DesktopNav = () => {
       className={`hidden mx-auto max-w-5xl px-6 lg:flex justify-between items-center py-6`}
     >
       <div className="flex items-center">
-        <h1 className="text-3xl font-semibold">
-          <Link href="/">Rocket NextJs</Link>
-        </h1>
+        <Link href="/" className="flex items-center text-3xl"> <img
+          alt="Flowbite React Logo"
+          className="mr-3 h-8 sm:h-10"
+          src="/logo.png"
+        /> NextJs</Link>
       </div>
       <div className="flex items-center cursor-pointer">
         {session ? (

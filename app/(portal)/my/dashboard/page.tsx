@@ -14,6 +14,9 @@ export default async function Dashboard() {
           <p className="text-4xl font-semibold">Hi {session?.user?.name}!</p>
         )}
       </h2>
+      <div className="text-center text-3xl py-16">
+        This is a protected dashboard
+      </div>
     </main>
   );
 }

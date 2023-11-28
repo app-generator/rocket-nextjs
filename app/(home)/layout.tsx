@@ -1,7 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { NextAuthProvider } from "../Provider";
-import Header from "../components/Header";
+import Header from "@/components/Header";
 
 export const metadata: Metadata = {
   title: "Rocket NextJs",

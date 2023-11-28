@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/app-generator/rocket-nextjs">
-        <img src="https://github.com/app-generator/rocket-nextjs/blob/main/public/favicon.ico" width="64" height="64" alt="Rocket Icon">
+        <img src="https://github.com/app-generator/rocket-nextjs/blob/main/public/Logo.png" width="64" height="64" alt="Rocket Icon">
     </a>
     <h1>
         <a href="https://github.com/app-generator/rocket-nextjs">

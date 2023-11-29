@@ -12,9 +12,9 @@ const DesktopNav = () => {
     >
       <div className="flex items-center">
         <Link href="/" className="flex items-center text-3xl"> <img
-          alt="Flowbite React Logo"
+          alt="Logo"
           className="mr-3 h-8 sm:h-10"
-          src="/logo.png"
+          src="/Logo.png"
         /> NextJs</Link>
       </div>
       <div className="flex items-center cursor-pointer">

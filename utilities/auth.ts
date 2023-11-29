@@ -11,7 +11,7 @@ import User from "../models/User";
 export const authOptions: NextAuthOptions = {
   adapter: MongoDBAdapter(clientPromise),
   session: {
-    strategy: "jwt",
+    strategy: "jwt", 
   },
   secret: process.env.NEXTAUTH_SECRET!,
   // Configure one or more authentication providers

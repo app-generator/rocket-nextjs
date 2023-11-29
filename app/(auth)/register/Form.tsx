@@ -6,7 +6,9 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { useForm, SubmitHandler } from "react-hook-form";
 import Loader from "../loading";
-import { useSession } from "next-auth/react";
+import { useSession, signIn } from "next-auth/react";
+import axios from "axios";
+import { toast } from "react-toastify";
 
 type Inputs = {
   email: string;
@@ -38,23 +40,16 @@ const Form = () => {
 
   const formSubmit: SubmitHandler<Inputs> = async (form) => {
     const { fullName, email, password } = form;
-    try {
-      const res = await fetch("/api/auth/register", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          fullName,
-          email,
-          password,
-        }),
-      });
-      res.status === 201 &&
-        router.push("/login?success=Account has been created");
-    } catch (err: any) {
-      setMessage(err);
-    }
+    
+    await axios.post("/api/auth/register", {
+      fullName,
+      email,
+      password,
+    }).then((res:any) => {
+      signIn("email", { email })
+    }).catch((err:any) => {
+      toast(err?.response?.data, { type: 'error' })
+    })
   };
 
   return (

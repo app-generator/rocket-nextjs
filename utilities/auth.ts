@@ -3,6 +3,7 @@ import type { NextAuthOptions } from "next-auth";
 import { MongoDBAdapter } from "@next-auth/mongodb-adapter";
 import GoogleProvider from "next-auth/providers/google";
 import CredentialsProvider from "next-auth/providers/credentials";
+import EmailProvider from "next-auth/providers/email"
 import dbConnect from "./dbConnect";
 import clientPromise from "./clientPromise";
 import bcrypt from "bcryptjs";
@@ -59,11 +60,27 @@ export const authOptions: NextAuthOptions = {
         }
       },
     }),
+
+    EmailProvider({
+      server: {
+        host: process.env.EMAIL_SERVER_HOST,
+        port: process.env.EMAIL_SERVER_PORT,
+        secureConnection: false,
+        requiresAuth: true,
+        domains: ["gmail.com", "googlemail.com"],
+        auth: {
+          user: process.env.EMAIL_SERVER_USER,
+          pass: process.env.EMAIL_SERVER_PASSWORD
+        },  
+        tls: { rejectUnauthorized: false }
+      },
+      from: process.env.EMAIL_FROM,
+      maxAge: 2 * 60 * 60, // How long email links are valid for (default 24h)
+    }),
   ],
   pages: {
     signIn: "/login",
     newUser: "/my/dashboard",
-    error: "/login",
   },
   callbacks: {
     // We can pass in additional information from the user document MongoDB returns

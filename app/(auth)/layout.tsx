@@ -2,6 +2,9 @@ import { NextAuthProvider } from "../Provider";
 import Header from "@/components/Header";
 import "./globals.css";
 
+import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer } from 'react-toastify';
+
 export default function RootLayout({
   children,
 }: {
@@ -14,6 +17,7 @@ export default function RootLayout({
           <Header />
           {children}
         </NextAuthProvider>
+        <ToastContainer />
       </body>
     </html>
   );

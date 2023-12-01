@@ -110,15 +110,15 @@ const Form = () => {
             Log in
           </span>
         </button>
-        <p
+        {/* <p
           className={`py-6  text-[#707a8a] text-center ${styles.login_continue}`}
         >
           <span className="mr-1 "> Or</span>
-        </p>
+        </p> */}
       </div>
-      <div className="flex w-full justify-center px-2 text-lg items-center">
+      {/* <div className="flex w-full justify-center px-2 text-lg items-center">
         <GoogleButton />
-      </div>
+      </div> */}
       {error && (
         <small className="block w-full px-2 text-red-600">{error}</small>
       )}

@@ -1,5 +1,5 @@
 import { NextAuthProvider } from "../Provider";
-import Header from "@/components/Header";
+import NavbarSidebarLayout from "./NavbarSidebarLayout";
 import "./globals.css";
 
 export default function RootLayout({
@@ -11,8 +11,9 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <NextAuthProvider>
-          <Header />
-          {children}
+          <NavbarSidebarLayout>
+            {children}
+          </NavbarSidebarLayout>
         </NextAuthProvider>
       </body>
     </html>

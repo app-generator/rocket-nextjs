@@ -75,7 +75,7 @@ export const authOptions: NextAuthOptions = {
   ],
   pages: {
     signIn: "/login",
-    newUser: "/my/dashboard",
+    newUser: "/dashboard",
   },
   callbacks: {
     // We can pass in additional information from the user document MongoDB returns

@@ -21,7 +21,7 @@ const Form = () => {
   const session = useSession();
 
   if (session.status === "authenticated") {
-    router?.push("/my/dashboard");
+    router?.push("/dashboard");
   }
 
   const {

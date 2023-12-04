@@ -1,7 +1,9 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { NextAuthProvider } from "../Provider";
+import Topbanner from "@/components/Topbanner";
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Rocket NextJs",
@@ -17,8 +19,10 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <NextAuthProvider>
+          <Topbanner />
           <Header />
           {children}
+          <Footer />
         </NextAuthProvider>
       </body>
     </html>

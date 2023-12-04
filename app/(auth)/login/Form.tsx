@@ -37,7 +37,7 @@ const Form = () => {
   }, [params]);
 
   if (session.status === "authenticated") {
-    router?.push("/my/dashboard");
+    router?.push("/dashboard");
   }
 
   const formSubmit: SubmitHandler<Inputs> = (form) => {

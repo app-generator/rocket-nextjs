@@ -2,7 +2,7 @@
 export default async function Home() {
   return (
     <main className="mx-auto mt-4 max-w-6xl px-6 pb-10">
-      <section id="about" className="bg-white dark:bg-gray-900 mt-10 mb-36 pt-32">
+      <section id="about" className="bg-white dark:bg-gray-900 mt-10 mb-20 pt-24">
         <div className="grid py-8 px-4 mx-auto max-w-screen-xl lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
           <div className="place-self-center mr-auto lg:col-span-7">
             <h1 className="mb-4 max-w-2xl text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
@@ -11,8 +11,8 @@ export default async function Home() {
             <p className="mb-6 max-w-2xl font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
               Open-Source starter built with <strong>NextJs &amp; Tailwind/Flowbite</strong>.
             </p>
-            <a href="https://docs.appseed.us/" target="_blank" className="inline-flex justify-center items-center py-3 px-5 mr-3 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
-              Docs
+            <a href="https://github.com/app-generator/rocket-nextjs/" target="_blank" className="inline-flex justify-center items-center py-3 px-5 mr-3 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+              Download
               <svg className="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                 <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path>
               </svg>
@@ -28,10 +28,10 @@ export default async function Home() {
       </section>
 
       <section>
-        <img src="/images/home/dashboard.png" alt="" />
+        <img src="/images/home/dashboard.png" className="rounded-lg" alt="" />
       </section>
 
-      <section id="tech_stack" className="flex justify-between w-full h-[calc(100vh-300px)] items-center pt-32">
+      {/* <section id="tech_stack" className="flex justify-between w-full h-[calc(100vh-300px)] items-center pt-32">
         <div className="lg:w-1/2 w-full">
           <div className="flex items-center gap-4 w-full justify-center">
             <img className="sm:w-20 w-12" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsymfon7-t1D7kzm9xJTrPp1xuRH8Hk5Bsw&usqp=CAU" />
@@ -47,7 +47,7 @@ export default async function Home() {
           />
         </div>
         <div className="w-1/2 text-5xl font-bold hidden lg:block text-center">Technology Stack</div>
-      </section>
+      </section> */}
 
       <section id="features" className="sm:my-20 my-8 pt-32">
         <p className="text-5xl font-bold text-center mb-12">Features</p>

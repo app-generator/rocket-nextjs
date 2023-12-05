@@ -58,9 +58,8 @@ const Header: FC<Record<string, never>> = function () {
                     }
                 </div>
                 <Navbar.Collapse>
-                    <Navbar.Link href="/" active>Home</Navbar.Link>
+                    <Navbar.Link href="#" active>Home</Navbar.Link>
                     <Navbar.Link href="/#about">About</Navbar.Link>
-                    <Navbar.Link href="/#tech_stack">Technology Stack</Navbar.Link>
                     <Navbar.Link href="/#features">Features</Navbar.Link>
                 </Navbar.Collapse>
             </Navbar>

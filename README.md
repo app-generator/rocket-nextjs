@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://rocket-nextjs-demo.vercel.app/">
+    <a href="https://rocket-nextjs-demo.vercel.app">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272178364-cbac6d97-b2dc-4d95-bab6-891f4ee7d84d.png"" width="64" height="64" alt="Rocket Icon">
     </a>
     <h1>
-        <a href="https://rocket-django.onrender.com">
+        <a href="https://rocket-nextjs-demo.vercel.app">
             Rocket NextJS
         </a>
     </h1>

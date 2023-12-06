@@ -8,7 +8,7 @@
         </a>
     </h1>
     <p>
-        <strong>NextJS</strong> &bull; <strong>TailwindCSS</strong> &bull; <strong>Flowbite</strong> &bull; <strong>Integrated Dashboard</strong> &bull; <strong>Auth</strong> &bull; <strong>Auth</strong> &bull; <strong>Premium Support</strong>
+        <strong>NextJS</strong> &bull; <strong>TailwindCSS</strong> &bull; <strong>Flowbite</strong> &bull; <strong>Dashboard Layout</strong> &bull; <strong>Auth</strong> &bull; <strong>Auth</strong> &bull; <strong>Premium Support</strong>
     </p>  
     <h3>
         <a href="https://docs.appseed.us/products/rocket/nextjs/">

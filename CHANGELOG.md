@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.0] 2023-12-06
+### Changes
+
+- STABLE Release 
+- HOMEpage improvements (minor) 
+
 ## [0.0.2] 2023-12-05
 ### Changes
 

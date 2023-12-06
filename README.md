@@ -1,15 +1,35 @@
 <div align="center">
-    <a href="https://github.com/app-generator/rocket-nextjs">
-        <img src="https://github.com/app-generator/rocket-nextjs/blob/main/public/Logo.png" width="64" height="64" alt="Rocket Icon">
+    <a href="https://rocket-nextjs-demo.vercel.app/">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272178364-cbac6d97-b2dc-4d95-bab6-891f4ee7d84d.png"" width="64" height="64" alt="Rocket Icon">
     </a>
     <h1>
-        <a href="https://github.com/app-generator/rocket-nextjs">
-            Rocket Nextjs
+        <a href="https://rocket-django.onrender.com">
+            Rocket NextJS
         </a>
     </h1>
+    <p>
+        <strong>TailwindCSS</strong> &bull; <strong>Flowbite</strong> &bull; <strong>API (DRF)</strong> &bull; <strong>Celery Beat</strong> &bull; <strong>DataTables</strong> &bull; <strong>Charts</strong> &bull; <strong>Docker</strong> &bull; <strong>CI/CD</strong>
+    </p>  
+    <h3>
+        <a href="https://docs.appseed.us/products/rocket/nextjs/">
+           📖 DOCS
+        </a>
+        &nbsp; &bull; &nbsp; 
+        <a href="https://appseed.us/support/">
+            Support 🚀
+        </a>
+    </h3>    
 </div>
 
-## [Why Rocket NextJS](https://github.com/app-generator/rocket-nextjs/issues/1)
+<br />
+
+<div align="center">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/288313171-9f4aef68-2593-4101-953d-72c8168deea9.png" alt="Django NextJS - Open-source Starter styled with Tailwind and Flowbite.">
+</div>
+
+<br />
+
+## Why Rocket NextJS
 
 #### ***Supercharge your app instantly, launch faster, make $***
 Login users, process payments and send emails at lightspeed. Spend your time building your startup, not integrating APIs. Rocket provides you with the boilerplate code you need to launch, FAST. <br />
@@ -33,20 +53,20 @@ The NextJS boilerplate with all you need to build your SaaS, AI tool, or any oth
 
 > `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
-| Free Version                            | PRO - $99 (plus VAT)                    | 🚀 Custom - $2999 (plus VAT)           |  
+| Free Version                          | PRO - 🛒 **[$199](https://appseed.gumroad.com/l/rocket-nextjs)**                  | 🚀 Custom - $3999            |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ Next 13.x                             | **Everything in Free**, plus:           | **Everything in PRO**, plus:                |
-| ✓ React 18.x                            | ✅ `Google OAuth` & `Magic Links`        | ✅ **1mo Custom Development**       | 
-| ✓ TypeScript                            | ✅ **Stripe Payments**                   | ✅ **Dedicated Developer**   |
-| ✓ Tooling: eslint, postcss              | ✅ Mailgun `or` SendGrid                 | ✅ Weekly Sprints      |
-| ✓ UI: TailwindCSS, **Flowbite**             | ✅ Postgres `or` MySql      | ✅ Technical SPECS             |
-| ✓ NextAuth (User & Password)            | ✅ Private REPO Access                   | ✅ Documentation                        |
-| ✓ Mailgun                               | ✅ **Unlimited Projects**                | ✅ **30 days Delivery Warranty**   |
-| ✓ MongoDB                               | ✅ Lifetime Updates                      | -                                      |
-| ✓ Support via GitHub Issues             | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)     | -                                      |
-| -                                       | ✅ Deployment Assistance                 | -                                      |
+| ✓ Next 13.x                           | **Everything in Free**, plus:         | **Everything in PRO**, plus:          |
+| ✓ React 18.x                          | ✅ `Google OAuth` & `Magic Links`    | ✅ **1mo Custom Development**         |  
+| ✓ TypeScript                          | ✅ **Stripe Payments**               | ✅ **Dedicated Developer**            |
+| ✓ Tooling: eslint, postcss            | ✅ **Flowbite Dashboard Full**       | ✅ Dedicated Support                  |
+| ✓ UI: TailwindCSS, **Flowbite**       | ✅ Private REPO Access               | ✅ Technical SPECS                    |
+| ✓ NextAuth (User & Password)          | ✅ **Unlimited Projects**            | ✅ Documentation                      |
+| ✓ MongoDB                             | ✅ Lifetime Updates                  | ✅ **30 days Delivery Warranty**      |
+| ✓ Flowbite Dashboard (2 pages)        | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)     | -                                     |
+| ✓ Support via GitHub Issues           | -                                    | -                                      |
+| -                                     | -                                     | -                                      |
 | --------------------------------------| --------------------------------------| --------------------------------------|
-| -                                       | 🛒 `PRE Order`: **[$49](https://appseed.gumroad.com/l/rocket-nextjs)** (via GUMROAD)         | 🛒 `Order`: **[$2999](https://appseed.gumroad.com/l/rocket-nextjs-custom)** (via GUMROAD)              |   
+| 🚀 [LIVE Demo](https://rocket-nextjs-demo.vercel.app/)   | 🚀 [LIVE Demo](https://rocket-nextjs-pro.vercel.app/) | 🛒 `Order`: **[$3999](https://appseed.gumroad.com/l/rocket-nextjs-custom)** (via GUMROAD)              |   
 
 ## Features
 This boilerplate features all the latest tools and practices in the industry.
